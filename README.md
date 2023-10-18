@@ -25,4 +25,4 @@ Temos que apresentar o feed do usuário
     
 
 # Link do projeto
-Veja como ficou o clone do instagram [aqui](clone-instagram-bice.vercel.app).
+Veja como ficou o clone do instagram [aqui](https://clone-instagram-bice.vercel.app/).
