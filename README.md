@@ -1,8 +1,28 @@
-# React + Vite
+# Clone-Instagram
+Neste projeto temos que criar um clone do instagram de acordo com nossa criatividade através do React. É necessário que o nosso instagram se pareça com original, porém podemos implementar nossa criatividade.
+Temos que apresentar o feed do usuário
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+   * [Lado esquerdo](#como-usar)
+      * Logo da página
+      * Botões: 🏠/🔍/🧭/❣️/🎬/📝/💬
+      * Imagem do post
+      * Botão curtir, enviar e salvar
+      * Curtidas
+                
+   * [Stories](#como-usar)
+      * Vários usuários
+      * Carousel
+        
+   * [Post](#como-usar)
+      * Usuário do post
+      * Quando foi postado
+      * Imagem do post
+      * Botão curtir, enviar e salvar 💓/🗪/📨/🔖 
+      * Curtidas
+        
+   * [Sugestão](#como-usar)
+      * Usuário da conta
+    
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Link do projeto
+Veja como ficou o clone do instagram [aqui](clone-instagram-bice.vercel.app).
