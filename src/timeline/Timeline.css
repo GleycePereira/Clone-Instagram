@@ -1,0 +1,30 @@
+.timeline{
+    display: flex;
+    /* Linha */
+    flex-direction: row;
+}
+
+/* .stories{
+    height: 0.3;
+    background-color: aqua;
+} */
+
+.timeline_conteudo{
+    flex: 0.8;
+}
+
+.timeline_direita{
+    flex: 0.3;
+}
+
+@media (max-width: 380px){
+    .timeline_conteudo{
+        width: 100vw;
+    }
+}
+
+@media (max-width: 412px){
+    .timeline_direita{
+        display: none;
+    }
+}

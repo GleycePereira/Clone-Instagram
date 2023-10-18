@@ -1,0 +1,39 @@
+.paginaInicial{
+    display: flex;
+    flex-direction: row;
+}
+
+.paginaInicial_nav{
+    /*Ocupa 20% da página */
+    /* flex: 0.2; */
+    width: 20vw;
+}
+
+.paginaInicial_timeline{
+    /* Ocupa 80% da página */
+    /* flex: 0.8; */
+    width: 80vw;
+}
+
+@media (max-width: 400px){
+    .paginaInicial_nav{
+        display: none;
+    }
+
+    .paginaInicial_timeline{
+        width: 100vw;
+    }
+}
+
+
+@media (max-width: 414px){
+    .paginaInicial_nav{
+        background-color: yellow;
+    }
+
+    .paginaInicial_timeline{
+        width: 100vw;
+    }
+}
+
+
