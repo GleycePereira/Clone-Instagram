@@ -21,7 +21,7 @@ Temos que apresentar o feed do usuário
       * Curtidas
         
    * [Sugestão](#como-usar)
-      * Usuário da conta
+      * Apresentar novos usuários
     
 
 # Link do projeto
